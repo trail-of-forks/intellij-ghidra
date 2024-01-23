@@ -11,6 +11,7 @@ import com.intellij.ui.dsl.builder.panel
 import org.jetbrains.annotations.Nullable
 import javax.swing.JCheckBox
 import javax.swing.JComponent
+import javax.swing.JTextField
 
 
 class GhidraLauncherConfigurationEditor(project: Project) : SettingsEditor<GhidraLauncherConfiguration>(),
